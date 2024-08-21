@@ -7383,7 +7383,6 @@ dependencies = [
  "language",
  "log",
  "menu",
- "multi_buffer",
  "project",
  "schemars",
  "search",
